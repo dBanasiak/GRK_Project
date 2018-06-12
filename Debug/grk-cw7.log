@@ -1,0 +1,6 @@
+﻿  main_7_1.cpp
+c:\users\damian\desktop\grk-cw7\src\main_7_1.cpp(142): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\damian\desktop\grk-cw7\src\main_7_1.cpp(198): warning C4305: "+=": obcięcie z "double" do "float"
+c:\users\damian\desktop\grk-cw7\src\main_7_1.cpp(219): warning C4305: "-=": obcięcie z "double" do "float"
+Camera.obj : warning LNK4075: zignorowano opcję „/EDITANDCONTINUE” z powodu określenia opcji „/INCREMENTAL:NO”
+  grk-cw7.vcxproj -> C:\Users\Damian\Desktop\grk-cw7\Debug\grk-cw7.exe

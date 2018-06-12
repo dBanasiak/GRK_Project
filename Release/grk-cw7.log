@@ -1,0 +1,10 @@
+﻿  main_7_1.cpp
+e:\projekty\grk-cw7\src\main_7_1.cpp(144): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+e:\projekty\grk-cw7\src\main_7_1.cpp(199): warning C4305: "+=": obcięcie z "double" do "float"
+e:\projekty\grk-cw7\src\main_7_1.cpp(211): warning C4305: "-=": obcięcie z "double" do "float"
+  Trwa generowanie kodu
+  2 of 1345 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  grk-cw7.vcxproj -> E:\Projekty\grk-cw7\Release\grk-cw7.exe
